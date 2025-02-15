@@ -1,0 +1,11 @@
+img{
+    height: 250px;
+    padding: 20px;
+}
+div{
+    display: flex;
+
+}
+body{
+    text-align: center;
+}
