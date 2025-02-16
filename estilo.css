@@ -4,8 +4,19 @@ img{
 }
 div{
     display: flex;
-
 }
 body{
     text-align: center;
+    background-color: #C8AB7A;
+}
+li{
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #fff;
+}
+h1{font-size: 2.5em;}
+a{
+    font-size: 1.2em;
 }
